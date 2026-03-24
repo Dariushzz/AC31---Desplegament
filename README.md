@@ -1,1 +1,4 @@
 # Desplegament d'aplicacions Web M8AC1API
+
+
+EN EL PDF AC31-DARIUSH ESTAN LAS CAPTURAS DE LA ACTIVIDAD
